@@ -1,2 +1,3 @@
 # laptop-cooling-dock
-I'm making a laptop cooling dock because it gets too hot so I'm cooling it down.
+I'm making a laptop cooling dock because my laptop gets too hot thus I'm cooling it down with a cooling dock that cools it down.
+
