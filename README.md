@@ -11,7 +11,7 @@ It addresses a few issues:
 
 1) Heat Transfer 
 - Macbook Airs have no cooling system, and even are designed to keep heat confined to the motherboard. While it helps with not burning your hands, it does cause throttling and immense heat buildup over time, which can still leak to the shell of the computer anyway.
-- I plan to add thermal pads inside to help transfer heat from the motherboard to the bottom shell of the laptop. It might seem counterintuitive, however with a cooling system, heatsinking to the shell will allow heat to be taken out of the system.
+- I plan to add thermal pads inside to help transfer heat from the motherboard to the bottom shell of the laptop. It might seem counterintuitive, however with a cooling system, heatsinking to the shell will allow heat to be taken out of the laptop.
 
 2) Cooling
 - My dock uses two Noctua NF-A6x15 5V fans to intake air and blast it against the bottom shell of the laptop, right where the motherboard is the hottest and heat will be localized. It is admittedly a little overkill, but something something the more CFM the merrier or something and two 60mm fans look cool and proportional.
