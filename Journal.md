@@ -1,6 +1,12 @@
+## Hours
+- Preliminary Design: 33.5 hours
+- Build: 
+
+---
+
 So full disclosure I highkey didn't realize I needed to submit a journal until July 22nd so most of the stuff is being journalled on the 24th. My "entries" are based off my memory of my thoughts at the time and Onshape's incredibly accurate logging system(which logs EVERYTHING, even stuff as simple as showing/hiding parts down to minute which they happened).
 
-# 7-14 | Determining Requirements
+# 7-14 | Determining Requirements | 1 Hour
 
 I've finally decided to make a laptop stand after dropping to 10 FPS for the hundreth time or so. Did some research on previous solutions to Macbook Air overheating, and found LLT and Max Tech's videos particularly informative. They both used thermal pads to heatsink the CPU's heat to the metal shell of the laptop. Max went even further by adding a magsafe magnet inside and clipping on a third-party iPhone magsafe fan, which was kinda epic. I want to do something like that too with an active cooling system.
 
@@ -24,7 +30,7 @@ So the current requirements are:
 <h6 align="center"><i><small>And it was all downhill from here.</small></i></p></h6>
 <br>
 
-# 7-15 | What the heck
+# 7-15 | What the heck | 0.5 Hours
 
 So uh, what the heck were we thinking...??
 
@@ -32,7 +38,7 @@ So uh, what the heck were we thinking...??
 <h6 align="center"><i><small>What the helly??</small></i></p></h6>
 <br>
 
-# 7-16 | Locked In Behavior
+# 7-16 | Locked In Behavior | 13.5 Hours
 
 Today I decided to lock in and have finally made a kinda style I like. The original idea with the wood top was to match the color pallette of the Noctua fans and also provide a better contact surface for the hot underside of the laptop(since I think it would at the very least warp the 3D printed plastic), and has now been replaced with a bent polycarbonate sheet that I think is pretty cool. 
 
@@ -58,7 +64,7 @@ I thus began on the outtake ducts. I initally was thinking of ways it could be f
 <p align="center"><img width="689" height="283" alt="image" src="https://github.com/user-attachments/assets/c1df4611-fcfd-470d-ac39-64b1e2e3f6d4" /></p>
 <br>
 
-# 7-17 | Locked Out Behavior
+# 7-17 | Locked Out Behavior | 3.5 Hours
 
 This was truly a traumatic day. I started off by completely redoing the vents for no reason at all which ended up being a huge ugly mess/waste of time that I ended up rolling back anyway.
 
@@ -88,7 +94,7 @@ Another somewhat good outcome was finally getting rid of that dividing line. Sin
 <h6 align="center"><i><small>Yikes...</small></i></p></h6>
 <br>
 
-# 7-20 | Adding the USB Hub
+# 7-20 | Adding the USB Hub | 3.5 Hours
 
 With the intake and outtake vent debacles finally sorted out, I started integrating the USB hub. It was actually more challenging to find one than I thought it would be, since a lot of hubs were either too large with too many ports, too small with too little ports, or just right but only having ports on one side; I needed a "double sided" hub since the fans would plug into it as well internally. Eventually a friend reccommended the Sabrent 9 in 1 USB hub which he owned and found to be of high quality. A CAD model also existed in the Onshape public library! Super convenient. However, it did become a challenge to try and package, requiring me to eventually change the size, shape, and angle of the whole dock. Luckily things were pretty parametric and worked out nicely.
 
@@ -102,7 +108,7 @@ After some effort, I think I came up with a pretty elegant solution. By flipping
 <p align="center"><img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/aa122462-623c-4a99-8fea-55970aa7615b" /></p>
 <br>
 
-# 7-21 | Internal Routing
+# 7-21 | Internal Routing | 4 Hours
 
 Some evil events transpired today. I realized I did not structure my design with internal routing in mind; I started with a billet and subtracted, rather than a hollow shell and added.
 
@@ -124,7 +130,7 @@ Ended in a nice spot for today. Also somehow managed to squeeze in a top access 
 <h6 align="center"><i><small>Narrator: "He was in fact, nowhere near done..."</small></i></p></h6>
 <br>
 
-# 7-23 | Holy Scope Creep
+# 7-23 | Holy Scope Creep | 7.5 Hours
 
 Some friends suggested I add a powerbank, which I think is a super cool and amazing idea. My laptop suffers from abysmal battery health(as a product of the overheating!), so either powering the fans off a powerbank or charging the laptop directly could be pretty awesome.
 
