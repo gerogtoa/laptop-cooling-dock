@@ -39,4 +39,5 @@ It addresses a few issues:
 |M4x0.7mm 120 pack Nylock Nuts  |For general fastening                                                                                                          |Amazon       |$6.99 |1       |$6.99  |https://a.co/d/bJx2qE7             |
 |Polycarb Cover                 |To interface the laptop shell with the body so it won't melt the 3D printed plastic                                            |SendCutSend  |QUOTE |1       |QUOTE  |LINK QUOTE                         |
 |                               |                                                                                                                               |             |      |Total:  |$147.71|                                   |
-|   
+
+BOM Last Updated: 7-22
