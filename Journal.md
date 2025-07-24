@@ -8,8 +8,16 @@ So full disclosure I highkey didn't realize I needed to submit a journal until l
 ---
 # 7-14 | Determining Requirements
 
-I've finally decided to make a laptop stand after nearly burning my hands for the hundreth time or so. Did some research on previous solutions to Macbook Air overheating, and found LLT and Max Tech's videos particularly informative. They both used thermal pads to heatsink the CPU's heat to the metal shell of the laptop. Max went even further by adding a magsafe magnet inside and clipping on a third-party iPhone magsafe fan, which was kinda epic. I want to do something like that too with an active cooling system.
-I considered a proper heatsink and determined that it probably won't be nessecary given the already impressive performance increase and temperature decrease Max saw with just one baby fan and no proper heatsink as well. I think I will go ahead with two fans, probably from Noctua. A friend reccomended this brand to me and after some research it seems they have some of the best performing fans while also being very quiet, which is pretty cool.
+I've finally decided to make a laptop stand after dropping to 10 FPS for the hundreth time or so. Did some research on previous solutions to Macbook Air overheating, and found LLT and Max Tech's videos particularly informative. They both used thermal pads to heatsink the CPU's heat to the metal shell of the laptop. Max went even further by adding a magsafe magnet inside and clipping on a third-party iPhone magsafe fan, which was kinda epic. I want to do something like that too with an active cooling system.
+
+<br>
+<img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/c70720ba-457f-4aaa-b6fd-27d156e17e3d" />
+<h6 align="center"><i><small>Max Tech's Magsafe active cooling fan</small></i></p></h6>
+<br>
+ 
+That method would definitely require a stand/housing for everything. I considered a proper heatsink and determined that it probably won't be nessecary given the already impressive performance increase and temperature decrease Max saw with just one baby fan and no proper heatsink as well. I think I will go ahead with two fans, probably from Noctua. A friend reccomended this brand to me and after some research it seems they have some of the best performing fans while also being very quiet, which is pretty cool.
+
+I also want to incorperate a USB hub of some kind since Macbook Airs notoriously have negative one ports. Will also need the hub to power the fans off the Macbook.
 
 As for the actual CAD, I made the document and that's about it.
 
