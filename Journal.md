@@ -6,7 +6,7 @@ I've finally decided to make a laptop stand after dropping to 10 FPS for the hun
 
 <br>
 <p align="center"><img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/c70720ba-457f-4aaa-b6fd-27d156e17e3d" /></p>
-<h6 align="center"><i><small>Max Tech's Magsafe active cooling fan</small></i></p></h6>
+<h6 align="center"><i><small>Max Tech's Magsafe active cooling fan.</small></i></p></h6>
 <br>
  
 That method would definitely require a stand/housing for everything. I considered a proper heatsink and determined that it probably won't be nessecary given the already impressive performance increase and temperature decrease Max saw with just one baby fan and no proper heatsink as well. I think I will go ahead with two fans, probably from Noctua. A friend reccomended this brand to me and after some research it seems they have some of the best performing fans while also being very quiet, which is pretty cool. I also want to incorperate a USB hub of some kind since Macbook Airs notoriously have negative one ports. Will also need the hub to power the fans off the Macbook. 
@@ -81,7 +81,7 @@ I eventually moved on to a much more sensible vent/channel design...
 <h6 align="center"><i><small>Simplicity is a very beautiful thing! Now with ∞% more fasteners.</small></i></p></h6>
 <br>
 
-Another somewhat good outcome was finally getting rid of that dividing line. Since I have an BambuLabs A1 Mini 3D printer, I originally split it to fit on the print bed. But then I realized, I currenly have my robotics team's P1S at my house for the summer, so I could just use that. Confirming the viability of a single piece print also essentially locked in the width and height, as literally neither could increase without it going over the print volume constraints.
+Another somewhat good outcome was finally getting rid of that dividing line. Since I have an BambuLabs A1 Mini 3D printer, I originally split it to fit on the print bed. But then I realized, I currently have my robotics team's P1S at my house for the summer, so I could just use that. Confirming the viability of a single piece print also essentially locked in the width and height, as literally neither could increase without it going over the print volume constraints.
 
 <br>
 <p align="center"><img width="932" height="721" alt="image" src="https://github.com/user-attachments/assets/6a6ea4a0-e2e0-468b-9d00-a80408d31cdd" /></p>
@@ -96,7 +96,7 @@ With the intake and outtake vent debacles finally sorted out, I started integrat
 <p align="center"><img width="565" height="338" alt="image" src="https://github.com/user-attachments/assets/b1afdcf0-af79-4710-8f75-c5529c576da0" /></p>
 <br>
 
-After some effort, I think I came up with a pretty elegant solution. By flipping the hub upside down, there can be two inwards facing USB A ports to power the fans. On the front, another two USB A ports are present alongside a USB C and HDMI port. Ethernet is accessiable on the side.
+After some effort, I think I came up with a pretty elegant solution. By flipping the hub upside down, there can be two inwards facing USB A ports to power the fans. On the front, another two USB A ports are present alongside a USB C and HDMI port. Ethernet is accessible on the side.
 
 <br>
 <p align="center"><img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/aa122462-623c-4a99-8fea-55970aa7615b" /></p>
@@ -130,5 +130,38 @@ Some friends suggested I add a powerbank, which I think is a super cool and amaz
 
 <br>
 <p align="center"><img width="530" height="335" alt="image" src="https://github.com/user-attachments/assets/6ffb3e1c-1b85-4b0c-80d1-2c3f381fdfad" /></p>
+<h6 align="center"><i><small>Housing for the iNiu P55-E2 10,000mAh 45W powerbank.</small></i></p></h6>
 <br>
 
+I do have a lot of questions of how this whole system would work, though. How would the powerbank power things? I originally wanted it to be able to charge the computer and power the fans through the USB hub, but how would that work if the computer was also meant to power the fans through the hub? If I simply plugged/unplugged the powerbank/laptop depending on which input I desired, then when powered through the powerbank, I would not be able to use the the ports on the hub for data transfer with the computer, which was kind of nessecary if I wanted to have stuff plugged in like a USB A mouse and earbuds simultaneously. I went through dozens of different adapters trying to make this system work, but it was just a huge pain and pretty much impossible without some custom PCB that I am just not ready to design at this point. 
+
+<br>
+<p align="center"><img width="2060" height="1468" alt="image" src="https://github.com/user-attachments/assets/638f21ce-882b-4d8a-afa2-a255c6dd0e5e" /></p>
+<h6 align="center"><i><small>Wiring diagram for the power flow of the system after realizing it was completely cooked.</small></i></p></h6>
+<br>
+
+Eventually after running in circles for literal hours and going nowhere, I finally decided to drop the powerbank idea. I'd imagine the dock will sit at my desk next to my laptop charger most of time anyway, so a portable powerbank would just not be nessecary. Adding a slot to hold one is still on the table for travel.
+
+While talking with a friend on how to approach wiring, I was introduced to the difference between USB 2.0 and Thunderbolt 4, which is, to say the least, a huge difference. It became clear that in order to accommodate Thunderbolt 4 cables(with their thicker wires, beefier connectors, and larger bend radii, etc.), a major redesign of the internal routing would be needed. 
+
+<br>
+<p align="center"><img height="450" alt="image" src="https://github.com/user-attachments/assets/6e268dfc-aa5e-4018-bba4-de8f9ccf4800" /><img height="450" alt="image" src="https://github.com/user-attachments/assets/e589e736-ec86-4ecd-abd3-96429830e69d" /></p>
+<h6 align="center"><i><small>Before(left) and after(right) of the internal routing redesign. Went through several variations and changes to the actual wires/connectors as well, but main improvements include larger channels, better wiring for the fans, larger bend radii.</small></i></p></h6>
+<br>
+
+I've also been absolutely tweaking out over finishing the BOM because of the bent polycarb sheet. When I designed it, I used Onshape's sheet metal model tools, but didn't form the bends properly, and thus the model/.dxf exports were invalid when I uploaded them to quote on SendCutSend. But even before I realized that, the .dxf files were already getting broken for no reason at all either when exported from Onshape or when converted from a .step on SendCutSend's instant quote software. I would have to re-import the .dxf files into Onshape and manually fix them, just for it to again not work because of "unenclosed spaces" when there were zero gaps. I eventually reached out to support and am awaiting a response. 
+
+<br>
+<p align="center"><img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/14b3339a-546c-4720-ab84-dde62bafc3d6" /></p>
+<h6 align="center"><i><small>Pain. Suffering.</small></i></p></h6>
+<br>
+
+That's all for now!
+
+<img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/f189a737-ec12-4811-bc54-c97d85c8ffc4" />
+
+
+### Future plans:
+- Add room for a powerbank that is not hooked up to the rest of the system
+- Storage for a mousepad
+- Finally realize that the above two bullet points are more scope creeps and will induitably lead to copious amounts of pain and suffering 
