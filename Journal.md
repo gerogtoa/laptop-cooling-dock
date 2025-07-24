@@ -1,4 +1,4 @@
-So full disclosure I highkey didn't realize I needed to submit a journal until like July 22nd so most of the stuff is being journalled on the 24th. My "entries" are based off my memory of my thoughts at the time and Onshape's incredibly accurate logging system(which logs EVERYTHING like even stuff as simple as showing/hiding parts down to minute which they happened).
+So full disclosure I highkey didn't realize I needed to submit a journal until July 22nd so most of the stuff is being journalled on the 24th. My "entries" are based off my memory of my thoughts at the time and Onshape's incredibly accurate logging system(which logs EVERYTHING, even stuff as simple as showing/hiding parts down to minute which they happened).
 
 # 7-14 | Determining Requirements
 
@@ -102,4 +102,33 @@ After some effort, I think I came up with a pretty elegant solution. By flipping
 <p align="center"><img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/aa122462-623c-4a99-8fea-55970aa7615b" /></p>
 <br>
 
+# 7-21 | Internal Routing
+
+Some evil events transpired today. I realized I did not structure my design with internal routing in mind; I started with a billet and subtracted, rather than a hollow shell and added.
+
+<br>
+<p align="center"><img width="534" height="470" alt="image" src="https://github.com/user-attachments/assets/0c5b3132-741e-4543-8879-af41a9175b6b" /></p>
+<h6 align="center"><i><small>The initial design for the USB A to fan channels.</small></i></p></h6>
+<br>
+
+Added the input for the hub from the laptop.
+
+<br>
+<p align="center"><img width="534" alt="image" src="https://github.com/user-attachments/assets/d5cf403f-606b-4d2e-9f37-7a6d90f06950" /></p>
+<br>
+
+Ended in a nice spot for today. Also somehow managed to squeeze in a top access hole for the inwards facing Micro SD card slot! I think I'm pretty much done, and have started assembling a Bill of Materials! 
+
+<br>
+<p align="center"><img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/26c1f564-dd4f-4064-b745-932470988078" /></p>
+<h6 align="center"><i><small>Narrator: "He was in fact, nowhere near done..."</small></i></p></h6>
+<br>
+
+# 7-23 | Holy Scope Creep
+
+Some friends suggested I add a powerbank, which I think is a super cool and amazing idea. My laptop suffers from abysmal battery health(as a product of the overheating!), so either powering the fans off a powerbank or charging the laptop directly could be pretty awesome.
+
+<br>
+<p align="center"><img width="530" height="335" alt="image" src="https://github.com/user-attachments/assets/6ffb3e1c-1b85-4b0c-80d1-2c3f381fdfad" /></p>
+<br>
 
