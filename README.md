@@ -21,9 +21,9 @@ It addresses a few issues:
 - The newer Macbook Airs notoriously have two USB-C ports and, more recently, a magsafe charging port. While it's not always a huge deal, adapters and dongles aways suck to use when they do become nessecary. I've included a Sabrent USB hub inside the dock that plugs into a USB-C port on the Macbook.
 - The hub powers the two fans via two inwards-facing USB-A ports, with a further two facing outwards alongside an HDMI and USB-C port. An ethernet port is also accessible, and a Micro SD card slot as well.
 
-###  Portability
+###  User Experience
 - Most consumer laptop stands are tall, ugly, and/or expensive. Also, what's with every laptop stand being so tall and/or angled? I don't understand the appeal and find it uncomfortable(when I tested it with placeholder wedges on my laptop).
-- The goal of this dock was to be a thin and portable dock, and I'd say I've done a decent job with it. The powerbank also will help with utility when it's not stationed on a home desk.
+- The goal of this dock was to be a thin and portable dock, and I'd say I've done a decent job with it. 
 
 ## Bill of Materials
 |Item                           |Description                                                                                                                    |Vendor       |Cost  |Quantity|Total  |Link                               |
