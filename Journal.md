@@ -44,7 +44,7 @@ Today I decided to lock in and have finally made a kinda style I like. The origi
 
 <img width="3296" height="2547" alt="image" src="https://github.com/user-attachments/assets/dcc88d9e-33b8-41c8-82d7-a7616067694d" />
 
-This currently only supports the back as the angle in theory lines up the front to contact the table as well, so it should be fully supported. However I realized that it would probably be wise to allow more room in the front, since I would actually rather have the usb hub ports near the front instead of all the way at the back. Also I don't think there is enough room for it anyway since I'm trying to keep the width the same as the Macbook itself.
+This currently only supports the back as the angle in theory lines up the front to contact the table as well, so it should be fully supported. However I realized that it would probably be wise to allow more room in the front, since I would actually rather have the USB hub ports near the front instead of all the way at the back. Also I don't think there is enough room for it anyway since I'm trying to keep the width the same as the Macbook itself.
 
 <br>
 <p align="center"><img height="350" alt="image" src="https://github.com/user-attachments/assets/c109f87e-c740-497b-b65f-d1dc2f76329d" /> <img height="350" alt="image" src="https://github.com/user-attachments/assets/b69e5273-e9d0-422b-ae11-0b8c4e7e809d" /></p>
@@ -58,7 +58,7 @@ Eventually, I landed on a nice and simple intake duct, with an extra slot(-ish t
 <h6 align="center"><i><small>It also proved to be incredibly parametric!</small></i></p></h6>
 <br>
 
-I thus began on the outtake ducts. I initally was thinking of ways it could be fuctional yet asthetic at the same time, and decided that having channels exposed on the top of the 3D printed plastic but capped by the polycarb could look super cool. I placed an outtake vent at each side, which I plan on connecting to in some cool fashion.
+I thus began on the outtake ducts. I initally was thinking of ways it could be functional yet asthetic at the same time, and decided that having channels exposed on the top of the 3D printed plastic but capped by the polycarb could look super cool. I placed an outtake vent at each side, which I plan on connecting to in some cool fashion.
 
 <br>
 <p align="center"><img width="689" height="283" alt="image" src="https://github.com/user-attachments/assets/c1df4611-fcfd-470d-ac39-64b1e2e3f6d4" /></p>
