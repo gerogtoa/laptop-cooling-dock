@@ -1,5 +1,5 @@
 ## Hours
-- Preliminary Design: 33.5 hours
+- Preliminary Design: 34 hours
 - Build: 
 
 ---
@@ -161,6 +161,10 @@ I've also been absolutely tweaking out over finishing the BOM because of the ben
 <p align="center"><img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/14b3339a-546c-4720-ab84-dde62bafc3d6" /></p>
 <h6 align="center"><i><small>Pain. Suffering.</small></i></p></h6>
 <br>
+
+# 7-24 | Done? | 0.5 Hours
+
+I finally got my share link approved for the SendCutSend order, allowing me to finally finish the Bill of Materials.
 
 That's all for now!
 
