@@ -34,10 +34,9 @@ It addresses a few issues:
 |M4x25mm Ultra-Low Profile SHCS 20pc|To secure the fans to the body                                                     |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256806833766304.html|
 |100x100x1.5mm thermal pad          |To heatsink the CPU to the shell of the computer                                   |Aliexpress |$0.99 |2       |$1.98 |https://www.aliexpress.us/item/3256808001308645.html|
 |Noctua NF-A6x15 5V                 |To intake air to cool the bottom shell of the laptop                               |Amazon     |$15.95|2       |$31.90|https://a.co/d/2aiRH9k                              |
-|Thunderbolt 4 USB C 0.5M Cable     |To get power from the laptop to distribute to the USB hub                          |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256807340788002.html|
 |M4 Nylock Nuts 100pc               |For general fastening                                                              |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/2251832612458814.html|
 |Polycarb Cover                     |To interface the laptop shell with the body so it won't melt the 3D printed plastic|SendCutSend|$47.93|1       |$47.93|https://cart.sendcutsend.com/2ysmf3tukrza           |
 |USB fan splitter 2 - Dual Fan      |To connect the two fans to one USB A port                                          |Amazon     |$8.95 |1       |$8.95 |https://a.co/d/iWLsJlx                              |
-|                                   |                                                                                   |           |      |Total:  |$96.70|                                                    |
+|                                   |                                                                                   |           |      |Total:  |$95.71|                                                    |
 
 BOM Last Updated: 7-27
