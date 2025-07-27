@@ -38,6 +38,7 @@ It addresses a few issues:
 |M4x0.7mm 120 pack Nylock Nuts  |For general fastening                                                              |Amazon       |$6.99 |1       |$6.99  |https://a.co/d/bJx2qE7                   |
 |Polycarb Cover                 |To interface the laptop shell with the body so it won't melt the 3D printed plastic|SendCutSend  |$47.93|1       |$47.93 |https://cart.sendcutsend.com/2ysmf3tukrza|
 |USB fan splitter 2 - Dual Fan  |To connect the two fans to one USB A port                                          |Amazon       |$8.95 |1       |$8.95  |https://a.co/d/iWLsJlx                   |
-|                               |                                                                                   |             |      |Total:  |$164.59|                                         |
+|ABS Fillament 1KG White with Spool|For printing                                                                       |BambuLabs    |$22.99|1       |$22.99 |https://us.store.bambulab.com/products/abs-filament?id=41216786694280|
+|                               |                                                                                   |             |      |Total:  |$187.58|                                         |
 
 BOM Last Updated: 7-26
