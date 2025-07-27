@@ -26,19 +26,18 @@ It addresses a few issues:
 - The goal of this dock was to be a thin and portable dock, and I'd say I've done a decent job with it. 
 
 ## Bill of Materials
-|Item                           |Description                                                                        |Vendor       |Cost  |Quantity|Total  |Link                                     |
-|-------------------------------|-----------------------------------------------------------------------------------|-------------|------|--------|-------|-----------------------------------------|
-|Adhesive Cork Sheet 15.7x31"   |To cover the bottom and top to prevent sliding                                     |Amazon       |$12.99|1       |$12.99 |https://a.co/d/1KU3oZa                   |
-|Dust Filter 400x300mm          |To filter intake air of dust                                                       |Amazon       |$8.99 |1       |$8.99  |https://a.co/d/0loqiyE                   |
-|M4x12mm BHCS 100pc             |To fasten the polycarb cover and USB hub cover to the body                         |McMaster-Carr|$12.58|1       |$12.58 |https://www.mcmaster.com/91239a148/      |
-|M4x25mm Low Profile SHCS 25pc  |To secure the fans to the body                                                     |McMaster-Carr|$9.37 |1       |$9.37  |https://www.mcmaster.com/93070A109/      |
-|100x100x1.5mm thermal pad      |To heatsink the CPU to the shell of the computer                                   |Amazon       |$9.99 |1       |$9.99  |https://a.co/d/asofRSC                   |
-|Noctua NF-A6x15 5V             |To intake air to cool the bottom shell of the laptop                               |Amazon       |$15.95|2       |$31.90 |https://a.co/d/2aiRH9k                   |
-|Thunderbolt 4 USB C 1.6FT Cable|To get power from the laptop to distribute to the USB hub                          |Amazon       |$14.90|1       |$14.90 |https://a.co/d/geJOPQc                   |
-|M4x0.7mm 120 pack Nylock Nuts  |For general fastening                                                              |Amazon       |$6.99 |1       |$6.99  |https://a.co/d/bJx2qE7                   |
-|Polycarb Cover                 |To interface the laptop shell with the body so it won't melt the 3D printed plastic|SendCutSend  |$47.93|1       |$47.93 |https://cart.sendcutsend.com/2ysmf3tukrza|
-|USB fan splitter 2 - Dual Fan  |To connect the two fans to one USB A port                                          |Amazon       |$8.95 |1       |$8.95  |https://a.co/d/iWLsJlx                   |
-|ABS Fillament 1KG White with Spool|For printing                                                                       |BambuLabs    |$22.99|1       |$22.99 |https://us.store.bambulab.com/products/abs-filament?id=41216786694280|
-|                               |                                                                                   |             |      |Total:  |$187.58|                                         |
+|Item                               |Description                                                                        |Vendor     |Cost  |Quantity|Total |Link                                                |
+|-----------------------------------|-----------------------------------------------------------------------------------|-----------|------|--------|------|----------------------------------------------------|
+|Adhesive Cork Sheet 2500x200x1mm   |To cover the bottom and top to prevent sliding                                     |Amazon     |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256806952165170.html|
+|Dust Filter 300x1000mm             |To filter intake air of dust                                                       |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256809080527961.html|
+|M4x12mm Ultra-Low Profile SHCS 20pc|To fasten the polycarb cover and USB hub cover to the body                         |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256806833766304.html|
+|M4x25mm Ultra-Low Profile SHCS 20pc|To secure the fans to the body                                                     |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256806833766304.html|
+|100x100x1.5mm thermal pad          |To heatsink the CPU to the shell of the computer                                   |Aliexpress |$0.99 |2       |$1.98 |https://www.aliexpress.us/item/3256808001308645.html|
+|Noctua NF-A6x15 5V                 |To intake air to cool the bottom shell of the laptop                               |Amazon     |$15.95|2       |$31.90|https://a.co/d/2aiRH9k                              |
+|Thunderbolt 4 USB C 0.5M Cable     |To get power from the laptop to distribute to the USB hub                          |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/3256807340788002.html|
+|M4 Nylock Nuts 100pc               |For general fastening                                                              |Aliexpress |$0.99 |1       |$0.99 |https://www.aliexpress.us/item/2251832612458814.html|
+|Polycarb Cover                     |To interface the laptop shell with the body so it won't melt the 3D printed plastic|SendCutSend|$47.93|1       |$47.93|https://cart.sendcutsend.com/2ysmf3tukrza           |
+|USB fan splitter 2 - Dual Fan      |To connect the two fans to one USB A port                                          |Amazon     |$8.95 |1       |$8.95 |https://a.co/d/iWLsJlx                              |
+|                                   |                                                                                   |           |      |Total:  |$96.70|                                                    |
 
-BOM Last Updated: 7-26
+BOM Last Updated: 7-27
